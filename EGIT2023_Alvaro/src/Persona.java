@@ -4,8 +4,11 @@ public class Persona{
     private int edad;
 
 
-    public void metodo1(){
-      
+    public void edad(){
+      edad = 2;
     }
 
+    //System.out.println(Nombre);
+    //System.out.println(Apellido);
+    //System.out.println(Edad);
 }
